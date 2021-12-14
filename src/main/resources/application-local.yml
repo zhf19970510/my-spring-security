@@ -1,0 +1,6 @@
+# 从yml文件中配置死肯定是不好的，不要采用这种方式
+spring:
+  security:
+    user:
+      name: fox
+      password: 123456
